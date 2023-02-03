@@ -1,6 +1,6 @@
 # Recursion
 
-This is my solution for an assignment I received from [The Odin Project](https://www.theodinproject.com) course.
+This is my solution for Recursion assignment I received from [The Odin Project](https://www.theodinproject.com) course. Checkout Recursion assigment [here](https://www.theodinproject.com/lessons/javascript-recursive-methods).
 
 ### Assigment
 
